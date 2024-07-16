@@ -60,4 +60,6 @@ Passos para reproduzir:
 [Anexar imagens, se necessário]
 
 ---
-Ao seguir estas etapas, você ajudará a manter o projeto organizado e facilitará a colaboração. Agradecemos sua contribuição!
+Ao seguir estas etapas, você ajudará a manter o projeto organizado e facilitará a colaboração.
+---
+Não deixe de conferir como criar um pull request de maneira descomplicada: [pull request](https://github.com/ArielSpencer/pull-request).
