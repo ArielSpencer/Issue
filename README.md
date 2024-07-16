@@ -1,5 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Ariel%20Spencer-Issue-%238472E8) ![GitHub License](https://img.shields.io/github/license/arielspencer/issue)
 
+![Como fazer uma issues no github](https://github.com/ArielSpencer/Issue/blob/dd54746ebef677a8cc205db025fd104bc298a193/issues-github-capa.png)
+
 # Como Criar uma Issue
 
 As _issues_ são uma maneira eficaz de relatar bugs, solicitar novas funcionalidades ou discutir melhorias para o projeto. Este guia irá ajudá-lo a entender como criar uma _issue_ de forma clara e concisa.
